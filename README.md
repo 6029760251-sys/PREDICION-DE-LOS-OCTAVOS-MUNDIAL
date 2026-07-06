@@ -1,6 +1,6 @@
-# Predicción del Mundial FIFA 2026 con Machine Learning
+# Predicción del Mundial FIFA 2026 ( OCTAVOS , CUARTOS , FINAL )
 
-# INTEGRANTE
+# INTEGRANTES
     1. BACALLA BAZAN , DEYVI
     2. CHAMBA CRUS ANDRI 
     3. CUBAS BENAVIDES , ROYLIN
